@@ -1,0 +1,5 @@
+c:\users\wwstudent\documents\visual studio 2017\Projects\AddingMachine\AddingMachine\bin\Debug\AddingMachine.exe.config
+c:\users\wwstudent\documents\visual studio 2017\Projects\AddingMachine\AddingMachine\bin\Debug\AddingMachine.exe
+c:\users\wwstudent\documents\visual studio 2017\Projects\AddingMachine\AddingMachine\bin\Debug\AddingMachine.pdb
+c:\users\wwstudent\documents\visual studio 2017\Projects\AddingMachine\AddingMachine\obj\Debug\AddingMachine.exe
+c:\users\wwstudent\documents\visual studio 2017\Projects\AddingMachine\AddingMachine\obj\Debug\AddingMachine.pdb
